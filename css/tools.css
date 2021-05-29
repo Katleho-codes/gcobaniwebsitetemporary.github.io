@@ -1,0 +1,25 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Poppins', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+:root {
+	/* colors */
+	/* YELLOWS */
+	--y1: #f2cf1d;
+	--y2: #f2bb16;
+	--y3: #ecb100;
+	--gradient-color: linear-gradient(90deg, #f2bb16 0%, #f2cf1d 100%);
+	/* BLACKS */
+	--b1: #d9d9d9;
+	--b2: #a6a6a6;
+	--b3: #595959;
+	--b4: #262626;
+	--b5: #0d0d0d;
+}
